@@ -1,0 +1,16 @@
+C:\Users\gkgam\Documents\Fatec\algoritmo\exercicios em c#\eleicao\bin\Debug\net5.0\eleicao.exe
+C:\Users\gkgam\Documents\Fatec\algoritmo\exercicios em c#\eleicao\bin\Debug\net5.0\eleicao.deps.json
+C:\Users\gkgam\Documents\Fatec\algoritmo\exercicios em c#\eleicao\bin\Debug\net5.0\eleicao.runtimeconfig.json
+C:\Users\gkgam\Documents\Fatec\algoritmo\exercicios em c#\eleicao\bin\Debug\net5.0\eleicao.runtimeconfig.dev.json
+C:\Users\gkgam\Documents\Fatec\algoritmo\exercicios em c#\eleicao\bin\Debug\net5.0\eleicao.dll
+C:\Users\gkgam\Documents\Fatec\algoritmo\exercicios em c#\eleicao\bin\Debug\net5.0\ref\eleicao.dll
+C:\Users\gkgam\Documents\Fatec\algoritmo\exercicios em c#\eleicao\bin\Debug\net5.0\eleicao.pdb
+C:\Users\gkgam\Documents\Fatec\algoritmo\exercicios em c#\eleicao\obj\Debug\net5.0\eleicao.csproj.AssemblyReference.cache
+C:\Users\gkgam\Documents\Fatec\algoritmo\exercicios em c#\eleicao\obj\Debug\net5.0\eleicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkgam\Documents\Fatec\algoritmo\exercicios em c#\eleicao\obj\Debug\net5.0\eleicao.AssemblyInfoInputs.cache
+C:\Users\gkgam\Documents\Fatec\algoritmo\exercicios em c#\eleicao\obj\Debug\net5.0\eleicao.AssemblyInfo.cs
+C:\Users\gkgam\Documents\Fatec\algoritmo\exercicios em c#\eleicao\obj\Debug\net5.0\eleicao.csproj.CoreCompileInputs.cache
+C:\Users\gkgam\Documents\Fatec\algoritmo\exercicios em c#\eleicao\obj\Debug\net5.0\eleicao.dll
+C:\Users\gkgam\Documents\Fatec\algoritmo\exercicios em c#\eleicao\obj\Debug\net5.0\ref\eleicao.dll
+C:\Users\gkgam\Documents\Fatec\algoritmo\exercicios em c#\eleicao\obj\Debug\net5.0\eleicao.pdb
+C:\Users\gkgam\Documents\Fatec\algoritmo\exercicios em c#\eleicao\obj\Debug\net5.0\eleicao.genruntimeconfig.cache
